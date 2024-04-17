@@ -1,2 +1,2 @@
 # Typescript-TODO-LIST
-![alt text](bg1.png)
+![alt text](Capture.PNG)
